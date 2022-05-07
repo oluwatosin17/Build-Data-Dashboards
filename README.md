@@ -1,6 +1,13 @@
 # Build-Data-Dashboards
 Udacity Data Visualization Project for the Junior Data Analyst Nanodegree
 
+## Tableau Visualization Links:
+1. [Flight Delays and Cancellations](https://public.tableau.com/views/FlightDelaysandCancellationsUdacity/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+2. [US Census Demographic Data](https://public.tableau.com/views/USCensusDemographicDataUdacity_16519066853780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+3. [Youtube Data US](https://public.tableau.com/views/YoutubeDataUSUdacity/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Project Report: [Report](https://github.com/oluwatosin17/Build-Data-Dashboards/blob/main/report.pdf)
+
 ## Project Description
 
 In this project, i'll create visualizations to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
