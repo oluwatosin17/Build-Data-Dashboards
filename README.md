@@ -6,7 +6,8 @@ Udacity Data Visualization Project for the Junior Data Analyst Nanodegree
 2. [US Census Demographic Data](https://public.tableau.com/views/USCensusDemographicDataUdacity_16519066853780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 3. [Youtube Data US](https://public.tableau.com/views/YoutubeDataUSUdacity/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Project Report: [Report](https://github.com/oluwatosin17/Build-Data-Dashboards/blob/main/report.pdf)
+## Project Report: 
+[Report](https://github.com/oluwatosin17/Build-Data-Dashboards/blob/main/Tableau%20Visualization%20Report%20Udacity.pdf)
 
 ## Project Description
 
